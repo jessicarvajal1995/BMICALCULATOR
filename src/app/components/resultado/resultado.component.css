@@ -1,0 +1,26 @@
+.fondoitem {
+    background-color: #ff111328;
+    height: 400px;
+    border-radius: 20px;
+    color: white;
+}
+
+.resultado {
+    color: #12BD45;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.estiloNumero {
+    font-size: 80px;
+    font-weight: 700;
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
+
+.interpretacion {
+    margin: 10px;
+    font-size: 18px;
+    text-align: center;
+}
